@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:ital,wght@0,300..700;1,300..700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: "Red Hat Text", sans-serif;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.food-container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+}
+h1{
+    margin-left: 20px;
+    
+}
+.food-image{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    cursor: pointer;
+    &:hover{
+        border: 3px solid hsl(14, 86%, 42%);
+     }
+   
+}
+.food-items{
+     margin: 20px;
+     
+}
+
+.child-food-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.cart-details{
+    margin-top: 30px;
+}
+p,h4{
+    margin-top: 4px;
+}
+p{
+    font-size: 17px;
+}
+.price{
+    color: hsl(14, 86%, 42%);
+    font-weight: 600;
+}
+.title{
+    color:hsl(12,20%,44%)
+}
