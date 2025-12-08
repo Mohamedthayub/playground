@@ -49,3 +49,22 @@ let finalResult = marks.reduce((accumulator,current)=> {
     return accumulator;
 },{});
 console.log(finalResult);
+
+
+
+
+let city = ["Chennai", "Delhi", "Chennai", "Mumbai", "Delhi", "Chennai"];
+
+
+let cityCount = city.reduce((accumulator,current) => {
+    if(accumulator[current]){
+        accumulator[current] += 1;
+    }
+    else{
+        accumulator[current ] = 1;
+    }
+    return accumulator;
+
+},{});
+
+console.log(cityCount);
