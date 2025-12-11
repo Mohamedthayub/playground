@@ -1,6 +1,7 @@
-3609
+3610
+55/home/thayub/developer/playground/react/day1/.gitignore1765234658066394229 0
 63/home/thayub/developer/playground/react/day1/components/User.js1765234458822395738 0
-65/home/thayub/developer/playground/react/day1/components/Toggle.js1765233285690404622 0
+65/home/thayub/developer/playground/react/day1/components/Toggle.js1765415999832009946 0
 55/home/thayub/developer/playground/react/day1/components1765233304086404483 1
 77/home/thayub/developer/playground/react/day1/node_modules/dotenv/CHANGELOG.md1765232795534408334 0
 74/home/thayub/developer/playground/react/day1/node_modules/dotenv/README.md1765232796114408329 0
@@ -836,7 +837,7 @@
 79/home/thayub/developer/playground/react/day1/node_modules/@parcel/cache/LICENSE1765232796766408324 0
 95/home/thayub/developer/playground/react/day1/node_modules/.bin/node-gyp-build-optional-packages1765232812538408205 0
 90/home/thayub/developer/playground/react/day1/node_modules/@parcel/packager-js/src/utils.js1765232800362408297 0
-44/home/thayub/developer/playground/react/day11765233267174404762 1
+44/home/thayub/developer/playground/react/day11765234639438394370 1
 80/home/thayub/developer/playground/react/day1/node_modules/@parcel/plugin/LICENSE1765232797342408320 0
 96/home/thayub/developer/playground/react/day1/node_modules/@parcel/packager-js/src/.eslintrc.json1765232800362408297 0
 78/home/thayub/developer/playground/react/day1/node_modules/type-fest/index.d.ts1765232796186408329 0
@@ -1523,7 +1524,7 @@
 125/home/thayub/developer/playground/react/day1/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi115.glibc.node1765232795398408335 0
 95/home/thayub/developer/playground/react/day1/node_modules/@parcel/core/test/BundleGraph.test.js1765232804134408269 0
 97/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/src/_non_iterable_rest.mjs1765232799126408307 0
-60/home/thayub/developer/playground/react/day1/dist/index.html1765234480102395577 0
+60/home/thayub/developer/playground/react/day1/dist/index.html1765416008488009998 0
 113/home/thayub/developer/playground/react/day1/node_modules/@parcel/transformer-posthtml/src/PostHTMLTransformer.js1765232798106408314 0
 84/home/thayub/developer/playground/react/day1/node_modules/picomatch/lib/constants.js1765232795342408335 0
 88/home/thayub/developer/playground/react/day1/node_modules/@parcel/profiler/lib/Tracer.js1765232796982408323 0
@@ -1750,7 +1751,7 @@
 117/home/thayub/developer/playground/react/day1/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_stat.11765232796806408324 0
 85/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/src/_throw.mjs1765232799174408306 0
 87/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/src/_dispose.mjs1765232799050408307 0
-49/home/thayub/developer/playground/react/day1/dist1765234480154395576 1
+49/home/thayub/developer/playground/react/day1/dist1765416008564009999 1
 111/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/cjs/_object_without_properties_loose.cjs1765232796934408323 0
 94/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/_/_dispose/package.json1765232798402408312 0
 99/home/thayub/developer/playground/react/day1/node_modules/@parcel/optimizer-svg/lib/SVGOptimizer.js1765232800986408292 0
@@ -1763,7 +1764,7 @@
 81/home/thayub/developer/playground/react/day1/node_modules/@parcel/reporter-tracer1765232802146408284 1
 83/home/thayub/developer/playground/react/day1/node_modules/@parcel/feature-flags/src1765232802482408281 1
 81/home/thayub/developer/playground/react/day1/node_modules/fill-range/package.json1765232795342408335 0
-71/home/thayub/developer/playground/react/day1/dist/day1.3a01df49.css.map1765234480154395576 0
+71/home/thayub/developer/playground/react/day1/dist/day1.3a01df49.css.map1765416008540009998 0
 93/home/thayub/developer/playground/react/day1/node_modules/lmdb/dependencies/lz4/lib/README.md1765232798166408314 0
 79/home/thayub/developer/playground/react/day1/node_modules/@parcel/rust/index.js1765232797342408320 0
 108/home/thayub/developer/playground/react/day1/node_modules/caniuse-lite/data/features/css-at-counter-style.js1765232797722408317 0
@@ -1802,7 +1803,7 @@
 90/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/esm/_export_star.js1765232797642408318 0
 75/home/thayub/developer/playground/react/day1/node_modules/base-x/LICENSE.md1765232795390408335 0
 96/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/esm/_apply_decs_2203_r.js1765232797418408320 0
-66/home/thayub/developer/playground/react/day1/dist/day1.f72d0d54.js1765234480126395576 0
+66/home/thayub/developer/playground/react/day1/dist/day1.f72d0d54.js1765416008508009998 0
 89/home/thayub/developer/playground/react/day1/node_modules/weak-lru-cache/rollup.config.js1765232795450408334 0
 95/home/thayub/developer/playground/react/day1/node_modules/caniuse-lite/data/features/css-has.js1765232797878408316 0
 111/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/src/_class_private_field_destructure.mjs1765232798990408308 0
@@ -1894,7 +1895,7 @@
 88/home/thayub/developer/playground/react/day1/node_modules/type-fest/ts41/camel-case.d.ts1765232795542408334 0
 72/home/thayub/developer/playground/react/day1/node_modules/@parcel/events1765232802886408278 1
 89/home/thayub/developer/playground/react/day1/node_modules/caniuse-lite/data/regions/FK.js1765232798510408311 0
-67/home/thayub/developer/playground/react/day1/dist/day1.3a01df49.css1765234480150395576 0
+67/home/thayub/developer/playground/react/day1/dist/day1.3a01df49.css1765416008508009998 0
 90/home/thayub/developer/playground/react/day1/node_modules/@parcel/utils/src/http-server.js1765232801686408287 0
 90/home/thayub/developer/playground/react/day1/node_modules/@parcel/profiler/lib/Tracer.d.ts1765232797118408322 0
 81/home/thayub/developer/playground/react/day1/node_modules/@parcel/workers/src/web1765232797110408322 1
@@ -2877,7 +2878,7 @@
 90/home/thayub/developer/playground/react/day1/node_modules/.bin/download-msgpackr-prebuilds1765232812538408205 0
 89/home/thayub/developer/playground/react/day1/node_modules/caniuse-lite/data/regions/IT.js1765232798822408309 0
 100/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/_/_class_private_field_update1765232798250408313 1
-51/home/thayub/developer/playground/react/day1/app.js1765234161870397986 0
+51/home/thayub/developer/playground/react/day1/app.js1765416005672009981 0
 75/home/thayub/developer/playground/react/day1/node_modules/.bin/browserslist1765232812534408205 0
 104/home/thayub/developer/playground/react/day1/node_modules/.bin/node-gyp-build-optional-packages-optional1765232812538408205 0
 69/home/thayub/developer/playground/react/day1/node_modules/.bin/parcel1765232812538408205 0
@@ -3027,7 +3028,7 @@
 99/home/thayub/developer/playground/react/day1/node_modules/caniuse-lite/data/features/flexbox-gap.js1765232798518408311 0
 90/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/cjs/_instanceof.cjs1765232796850408324 0
 83/home/thayub/developer/playground/react/day1/node_modules/escalade/sync/index.d.mts1765232795522408334 0
-70/home/thayub/developer/playground/react/day1/dist/day1.f72d0d54.js.map1765234480142395576 0
+70/home/thayub/developer/playground/react/day1/dist/day1.f72d0d54.js.map1765416008552009999 0
 102/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/_/_async_generator/package.json1765232797910408316 0
 82/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/_/_decorate1765232798358408312 1
 95/home/thayub/developer/playground/react/day1/node_modules/@swc/helpers/_/_decorate/package.json1765232798358408312 0
